@@ -1,0 +1,2 @@
+# esp32-c3-supermini-a-compact-and-powerful-microcontroller
+ESP32-C3 SuperMini stands out as a compact version of the ESP32-C3 series developed by Espressif Systems. It offers an ideal option for IoT (Internet of Things) projects with its low cost, low power consumption and powerful Wi-Fi/Bluetooth features.In this article, we will examine the features, usage areas and a simple webserver example of ESP32-C3
